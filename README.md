@@ -33,7 +33,7 @@ This repository is part of the data structure and algorithms (#EDA) teaching fra
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
 1. Juan Lago, j.lagoa@uniandes.edu.co
-1. Juan David Ortiz Prada, jd.ortizp1@uniandes.edu.co
+1. Juan David Ortiz Prada, jd.ortizp1@uniandes.edu.co 202222483
 1. Mauricio Martínez, m.martinezu@uniandes.edu.co
 
 [Back to top](#sample-list)
